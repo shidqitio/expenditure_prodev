@@ -1,0 +1,59 @@
+{
+    "panutan":{
+      "sk_by_honor": "/api/expenditure/get-sk-by-honor",
+      "klasifikasi_honor": "/api/expenditure/get-klasifikasi-honor",
+      "send_data": "/api/external/send_data",
+      "detail_apl_external": "/api/external/get_detail_apl_external",
+      "get_unit": "/api/external/get_unit",
+      "surtug_perjadin_old": "/api/expenditure/get-surtug-perjadin",
+      "surtug_perjadin": "/api/expenditure/get-surtug-perjadin-by-kode-unit",
+      "petugas_perjadin": "/api/expenditure/get_petugas_perjadin",
+      "detail_perjadin": "/api/expenditure/get-detail-perjadin",
+      "data_apl_external": "/api/external/get_data_apl_external/4",
+      "update_status_perjadin": "/api/expenditure/update-status-perjadin",
+      "data_api_beritaacara": "/api/expenditure/get-all-bac",
+      "data_pegawai_ganti": "/api/expenditure/get-detail-bac",
+      "data_list_bac": "/api/expenditure/get-bac-by-unit"
+    },
+    "ebudgeting":{
+        "rka_bulan":"/rkatu/bulan",
+        "rka_unitbulan":"/rkatu/unitbulan",
+        "rka_unit_bulan":"/rkatu/unit-bulan",
+        "apiv1_rka_bulan":"/ebudgeting/apiv1/rkatu/bulan/",
+        "expenditure_pagu":"/expenditure/pagu",
+        "rka_byid_5":"/rkaunit/byid/5"
+    },
+    "pevita":{
+        "login":"/utapi/public/api/login?email=expenditure@ecampus.ut.ac.id&password=password123",
+        "lat_surat":"/utapi/public/api/lat_nosurat",
+        "lat_nosurat":"/utapi/public/api/lat_nosurat"
+    },
+    "siakun":{
+        "pagu_store":"/apiv1/transaksi-pagu/store",
+        "pagu_reversal":"/apiv1/transaksi-pagu/reversal",
+        "jurnal_create_pengeluaran":"/internal/jurnal/create-pengeluaran-new",
+        "transaksi_jurnal_store":"/apiv1/transaksi-jurnal/store"
+    },
+    "sibela":{
+        "permintaan":"/api/eksternal/get_permintaan",
+        "pembayaran":"/api/eksternal/get_pembayaran"
+    },
+    "expenditure":{
+        "view_file_barjas":"/view-file-barjas",
+        "view_file_komponen_realisasi_honor":"/view-file-komponen-realisasi-honor",
+        "view_file_komponen_realisasi_perjadin":"/view-file-komponen-realisasi-perjadin"
+    },
+    "hris":{
+        "pegawai_show":"/pegawai/show",
+        "pegawai_ppk":"/pegawai/ppk",
+        "trxjabatanstruktural":"/trxjabatanstruktural",
+        "unit":"/unit"
+    },
+    "utpay":{
+        "payment_va":"payment-va",
+        "payment_detail":"payment-detail",
+        "bri_v1_payment_detail":"/bri/v1/payment-detail",
+        "transfer":"transfer"
+    }
+}
+

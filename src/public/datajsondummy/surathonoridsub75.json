@@ -1,0 +1,386 @@
+{
+    "status": "success",
+    "message": "Berhasil memuat data",
+    "data": [
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 3,
+        "id_surat": 60,
+        "nomor_surat": "B/61/UN31.UPBJ/KP.06.00/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-04-14",
+        "created_at": "2021-04-11 11:06:08",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Ihrom Lestari"
+          },
+          {
+            "nama": "Anggi Tri Hadi"
+          },
+          {
+            "nama": "Fajar Ichwan"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 61,
+        "nomor_surat": "B/62/UN31.UPBJ/PK.04.08/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-04-14",
+        "created_at": "2022-04-11 10:48:32",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Milda Ayudia, S.S."
+          },
+          {
+            "nama": "Prasiwi Susy Nurwiyanti, S.H."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 65,
+        "nomor_surat": "T/66/UN31.UPBJ/JM.07/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-04-16",
+        "created_at": "2022-04-10 21:08:35",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Antares Firman, S.E., M.Prof.Acc."
+          },
+          {
+            "nama": "Elvira Widiyan, SE"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 68,
+        "nomor_surat": "B/69/UN31.UPBJ/PK.04.12/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-04-21",
+        "created_at": "2022-04-18 11:14:32",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Syamsuri, S.IP."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 72,
+        "nomor_surat": "B/73/UN31.UPBJ/TM.00.01/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-04-22",
+        "created_at": "2022-04-18 09:37:52",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Febrian Rahman, S.E"
+          },
+          {
+            "nama": "Fajar Ichwan"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 74,
+        "nomor_surat": "B/74/UN31.UPBJ/KP.09.00/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-04-25",
+        "created_at": "2022-04-20 14:45:47",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Efita Rusdiana, S.E."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 78,
+        "nomor_surat": "B/79/UN31.UPBJ/KA.00/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-04-28",
+        "created_at": "2022-04-21 10:10:06",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Inneke Putri Widyani, S.E., M.Si."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 81,
+        "nomor_surat": "B/82/UN31.UPBJ/TM.00.01/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-04-29",
+        "created_at": "2022-04-22 10:20:16",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Fantio Isdeo Margono, S.T."
+          },
+          {
+            "nama": "Muhammad Muqsith Arsyad, A.Md."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 85,
+        "nomor_surat": "B/86/UN31.UPBJ/TM.00.03/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-02",
+        "created_at": "2022-04-28 09:00:13",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Muhammad Muqsith Arsyad, A.Md."
+          },
+          {
+            "nama": "Hendrik, S.Si"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 88,
+        "nomor_surat": "B/89/UN31.UPBJ/PK.04.11/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-02",
+        "created_at": "2022-04-28 12:34:51",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Drs. Wayan Meter, M.Pd."
+          },
+          {
+            "nama": "Ni Nengah Sariani, S.IP."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 92,
+        "nomor_surat": "B/93/UN31.UPBJ/HM.01.10/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-05",
+        "created_at": "2022-04-28 10:35:27",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Febryan Harya Putra, SKM."
+          },
+          {
+            "nama": "Muhammad Ryan"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 94,
+        "nomor_surat": "B/95/UN31.UPBJ/HM.01.10/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-06",
+        "created_at": "2022-04-29 10:36:19",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Dyah Palupi Setiyoningrum, S.Kom."
+          },
+          {
+            "nama": "Tifa Rohilah"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 95,
+        "nomor_surat": "B/96/UN31.UPBJ/TM.01.03/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-06",
+        "created_at": "2022-04-29 14:02:37",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Sri Iswati"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 96,
+        "nomor_surat": "B/97/UN31.UPBJ/TM.00.01/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-09",
+        "created_at": "2022-05-02 14:15:40",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+              "nama": "Anggi Tri Hadi, S.E"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 101,
+        "nomor_surat": "B/102/UN31.UPBJ/TM.00.01/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-10",
+        "created_at": "2022-05-03 14:17:47",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Rachma  Fauziah Krismayanti, A.Md."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 103,
+        "nomor_surat": "B/104/UN31.UPBJ/TM.01.01/2022",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-16",
+        "created_at": "2022-05-04 14:19:09",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Dede Margono"
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 105,
+        "nomor_surat": "B/106/UN31.UPBJ/RT.01.00/2021",
+        "perihal": "Surat Keputusan Honorarium",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-16",
+        "created_at": "2022-05-04 10:01:30",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Vinnie Aulya, S.E."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 1,
+        "id_surat": 108,
+        "nomor_surat": "B/108/UN31.UPBJ/KR.02.01/2022",
+        "perihal": "Surat Tugas",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-18",
+        "created_at": "2022-05-09 09:50:17",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Fantio Isdeo Margono, S.T."
+          }
+        ]
+      },
+      {
+        "id_sub_unit": 75,
+        "nama_unit": "Unit Pengadaan Barang Jasa",
+        "total_petugas": 2,
+        "id_surat": 110,
+        "nomor_surat": "B/111/UN31.UPBJ/RT.01.00/2022",
+        "perihal": "Surat Tugas",
+        "tempat_surat": "Tangerang Selatan",
+        "tanggal_surat": "2022-05-18",
+        "created_at": "2022-05-09 10:50:16",
+        "status": 0,
+        "keterangan_status": "Belum diproses",
+        "petugas": [
+          {
+            "nama": "Ihrom Lestari, S.E"
+          },
+          {
+            "nama": "Anggi Tri Hadi, S.E"
+          }
+        ]
+      }
+    ],
+    "meta": {
+      "total": "",
+      "page": "",
+      "limit": ""
+    }
+  }

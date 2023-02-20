@@ -1,0 +1,154 @@
+{
+    "swagger": "2.0",
+    "info": {
+      "description": "pokoknamah keur diajar heula ",
+      "version": "1.0.0",
+      "title": "Expenditure",
+      "termsOfService": "ridhoerikachan@ecampus.ut.ac.id",
+      "contact": {
+        "email": "ridhoerikachan@ecampus.ut.ac.id"
+      },
+      "license": {
+        "name": "Apache 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+      }
+    },
+    "host": "172.16.100.69:5800",
+    "basePath": "/",
+    "tags": [
+      {
+        "name": "spj",
+        "description": "Semua API spj kedua",
+        "externalDocs": {
+          "description": "melihat semua spj"
+        }
+      }
+    ],
+    "schemes": [
+        "https",
+        "http"
+      ],
+    "paths": {
+        "/spj/list-spj/{nip}": {
+            "get": {
+              "tags": [
+                "spj"
+              ],
+              "summary": "Get list spj by nip",
+              "description": "",
+              "operationId": "listSPJbyNip",
+              "produces": [
+                "application/json"
+              ],
+              "parameters": [
+                {
+                  "name": "nip",
+                  "in": "path",
+                  "description": "nip dari pegawai ",
+                  "required": true,
+                  "type": "string"
+                }
+              ],
+              "responses": {
+                "200": {
+                  "description": "successful operation"
+                },
+                "404": {
+                  "description": "nip not found"
+                }
+              }
+            }
+          },
+        "/spj/nested-spj/{nip}/{kode_surat}": {
+            "get": {
+              "tags": [
+                "spj"
+              ],
+              "summary": "Get list spj by nip",
+              "description": "",
+              "operationId": "listSPJbyNipKodeSurat",
+              "produces": [
+                "application/json"
+              ],
+              "parameters": [
+                {
+                  "name": "nip",
+                  "in": "path",
+                  "description": "nip dari pegawai ",
+                  "required": true,
+                  "type": "string"
+                },
+                {
+                    "name": "kode_surat",
+                    "in": "path",
+                    "description": "kode surat tugas ",
+                    "required": true,
+                    "type": "integer"
+                  }
+              ],
+              "responses": {
+                "200": {
+                  "description": "successful operation"
+                },
+                "404": {
+                  "description": "data not found"
+                }
+              }
+            }
+          },
+          "/file-realisasi-perjadin/multi-file":{
+            "post": {
+              "tags": [
+                "spj"
+              ],
+              "summary": "Upload kwitansi transaksi",
+              "description": "",
+              "operationId": "upload-kwitansi",
+              "consumes": [
+                "application/x-www-form-urlencoded"
+              ],
+              "produces": [
+                "application/xml",
+                "application/json"
+              ],
+              "parameters": [
+                {
+                  "name": "petId",
+                  "in": "path",
+                  "description": "ID of pet that needs to be updated",
+                  "required": true,
+                  "type": "integer",
+                  "format": "int64"
+                },
+                {
+                  "name": "name",
+                  "in": "formData",
+                  "description": "Updated name of the pet",
+                  "required": false,
+                  "type": "string"
+                },
+                {
+                  "name": "status",
+                  "in": "formData",
+                  "description": "Updated status of the pet",
+                  "required": false,
+                  "type": "string"
+                }
+              ],
+              "responses": {
+                "405": {
+                  "description": "Invalid input"
+                }
+              },
+              "security": [
+                {
+                  "petstore_auth": [
+                    "write:pets",
+                    "read:pets"
+                  ]
+                }
+              ]
+            }
+          }
+    }
+}
